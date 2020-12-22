@@ -1,0 +1,1 @@
+print('Genneralny test ');
