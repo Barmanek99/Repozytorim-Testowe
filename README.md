@@ -1,4 +1,7 @@
 # Respozytorim-Testowe
+***INFORMACJE O AUTORACH***
+
+
 
 **Imię:** *Kacper*
 
