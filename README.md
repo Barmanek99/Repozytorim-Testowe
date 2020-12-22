@@ -1,5 +1,5 @@
 # Respozytorim-Testowe
-***DANE OSOBOWE***
+
 **Imię:** *Kacper*
 **Nazwisko:** *Gąsiorek*
 **Numer indeksu:** *147607*
