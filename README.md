@@ -12,8 +12,11 @@
 **Grupa labolatoryjna:** *L5*
 
 **Imię:** *Jakub*
+
 **Nazwisko:** *Kujawiński*
+
 **Nr indeksu: *147510***
+
 **Grupa laboratoryjna:** *L5*
 
 **Imię:** *Artur*
