@@ -1,4 +1,4 @@
-# Respozytorim-Testowe
+# Repozytorim-Testowe
 ***INFORMACJE O AUTORACH***
 
 
